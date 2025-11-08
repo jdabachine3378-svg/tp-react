@@ -112,8 +112,7 @@ Master Technologies Émergentes en Éducation
 📅 Novembre 2025
 
 
-🏁 Conclusion
+# 🏁 Conclusion
 Ce projet montre comment créer une petite application React structurée en plusieurs composants indépendants.
 C’est une base solide pour comprendre la logique de React et la communication entre les composants via les props.
 
-✨ « Apprendre React, c’est apprendre à penser en composants réutilisables. » ⚛️
